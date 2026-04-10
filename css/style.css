@@ -35,7 +35,7 @@ body {
 .container img {
     border-radius: 50%;
     width: 50%;
-    border: 3px, solid, var(--color-White);
+    border: 3px solid var(--color-White);
     transition: .5s;
 }
 
